@@ -1,0 +1,22 @@
+body {
+    color:#3c3c3c;
+    background-color: #99a6e3
+    /*background-color: #b0cfbc; /* Replace #ADD8E6 with your desired color code */
+    font-family: 'EBGaramond';
+    margin-left: 50px;
+    margin-right: 100px;
+}
+
+h2 {
+    color: #46249b; /* Pastel Pink */
+    text-align: center;
+    font-family: 'Lucida Console';
+}
+
+a:link {
+    color:#46249b; 
+}
+
+a:visited {
+    color:rgb(23, 12, 175)
+}
