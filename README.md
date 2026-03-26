@@ -14,3 +14,13 @@ Looking for essays, creative non-fiction, poetry, fiction, photography, visual o
 Interested in everything, captivated by collective working & living, expression, conscious consumption, resonance, play, relationships, passions.
 
 Send us pitches + complete work. Submit for Issue 0 by April 31, to submit@edgesmag.net. 
+
+### nodes
+currently-everything-node - [holly](https://holly.garden/)
+
+✬★✪ *become a part of the network* ✬★✪ 
+If you want to become part of Edges, it couldn't be easier! You can email holly@edgesmag.net, and explain what you'd like to do. 
+
+If you want to bring Edges to your locality, please consider printing our [current promotion](https://www.are.na/block/44787719) and hanging it in your favourite cafes, bookshops, etc. If you do, you can send a photo of the poster hanging to holly@edgesmag.net and we will put your name in the magazine. If you send your address I will also send you a hand-stamped Edges sticker :D 
+
+I am also looking at options for distribution worldwide. If you have a favourite independent bookstore or newsagent, please also let me know!
